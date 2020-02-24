@@ -64,18 +64,22 @@ section{
 .border-area{
     box-shadow: 10px 10px 40px gray;
     border-radius: 5px;
-    height: 65%;
+    height: 80%;
 }
 #full-stackborder{
     border-left: 7px solid;
     border-image: linear-gradient(180deg,orange,tomato);
     border-image-slice: 1;
+    margin-left: 70px;
+    padding-left: 25px;
     
 }
 #baby-stackborder{
     border-left: 7px solid;
     border-image: linear-gradient(180deg, blue,cyan);
     border-image-slice: 1;
+    margin-left: 70px;    
+    padding-left: 25px;
 }
 footer p{
     text-align: center;
