@@ -75,7 +75,7 @@ p{
 .border-area{
     box-shadow: 10px 10px 40px gray;
     border-radius: 5px;
-    height: auto;
+    height: 100%;
     padding: 5px;
 }
 #full-stackborder{
@@ -91,6 +91,7 @@ p{
     border-image-slice: 1;
     margin-left: 70px;    
     padding-left: 25px;
+    margin-top: 7.5rem;
 }
 .footer{
     grid-column: 1 / 3;
