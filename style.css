@@ -75,7 +75,7 @@ p{
 .border-area{
     box-shadow: 10px 10px 40px gray;
     border-radius: 5px;
-    height: 100%;
+    height: auto;
     padding: 5px;
 }
 #full-stackborder{
@@ -83,8 +83,7 @@ p{
     border-image: linear-gradient(180deg,orange,tomato);
     border-image-slice: 1;
     margin-left: 70px;
-    padding-left: 25px;
-    
+    padding-left: 25px;   
 }
 #baby-stackborder{
     border-left: 7px solid;
@@ -92,7 +91,6 @@ p{
     border-image-slice: 1;
     margin-left: 70px;    
     padding-left: 25px;
-    margin-top: 7.5rem;
 }
 .footer{
     grid-column: 1 / 3;
